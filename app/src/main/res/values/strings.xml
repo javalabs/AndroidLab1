@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AndroidLab1</string>
+    <string name="btn_txt">Передать параметр</string>
+    <string name="edt_txt">Егоров</string>
+    <string name="txt_view_param">Переданный параметр:</string>
 </resources>
